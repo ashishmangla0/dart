@@ -1,1 +1,37 @@
 
+void main(){
+  
+  //litrels
+  true;
+  2;
+  4.8;
+  
+  
+  
+  //defining litrels
+  
+  String a = 'this is string 1';
+  String b = "this is string 2";
+  String c = 'it\'s easy';
+  
+  
+  //string interpolation
+  
+
+  String f = "ashish mangla";
+  
+  
+  print(" my name is $f");
+  print("length is ${f.length}");
+
+  
+  
+  
+  int l = 10;
+  int br = 20;
+  print("sum is ${l + br}");
+  print("area of rectangle with $l and $br is  ${l * br}");
+  
+  
+  
+}
